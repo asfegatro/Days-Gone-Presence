@@ -13,7 +13,7 @@ namespace DaysGoneRPC.Handler
 
         public static void Start()
         {
-            client = new DiscordRpcClient("863866927013298187");
+            client = new DiscordRpcClient("1365314650736037928");
             client.Initialize();
             client.SetPresence(new RichPresence()
             {
